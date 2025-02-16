@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkanyalgith&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkanyalgith" /> </p>
 
-- 🔭 I’m currently working on [X-clone](https://github.com/Rahulkanyalgith/X-clone-client)
+- 🔭 I’m currently working on DSA,React Native,physique
 
 - 🌱 I’m currently learning **Advance Backend**
 
